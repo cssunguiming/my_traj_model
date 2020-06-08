@@ -198,7 +198,7 @@ def main(Epoch=5, Bert_Pretrain=False, Pretrained=False, Batch_size=2, log=None)
     head_n = 12
     d_model = 768
     N_layers = 12
-    dropout = 0.1
+    dropout = 0.2
 
     print('*'*150)
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -230,7 +230,7 @@ def main(Epoch=5, Bert_Pretrain=False, Pretrained=False, Batch_size=2, log=None)
 
     optimizer = Trans_Optim(
         torch.optim.Adam(model.parameters(), betas=(0.9, 0.98), eps=1e-09),
-        init_lr=2, d_model=512, n_warmup_steps=4000)
+        init_lr=2, d_model=768, n_warmup_steps=4000)
     print('*'*150)
     print('-'*65 + "  START TRAIN  " + '-'*65)
     run(Epoch, model, optimizer, device, train_data, train_traj_idx, test_data, test_traj_idx, log, Batch_size)
