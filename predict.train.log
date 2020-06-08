@@ -1,0 +1,541 @@
+Start Time: 2020-05-27 10:20:03.
+ --Train--  Epoch: 1/50  Train_avg_loss: 10.14450470312342 Train_acc: 0.16221497170454754
+ --Train--  Epoch: 2/50  Train_avg_loss: 9.864770189165462 Train_acc: 0.4442478202363177
+ --Train--  Epoch: 3/50  Train_avg_loss: 9.665602245597968 Train_acc: 1.600951169606813
+ --Train--  Epoch: 4/50  Train_avg_loss: 9.743559133986262 Train_acc: 3.4461464727460416
+ --Train--  Epoch: 5/50  Train_avg_loss: 9.69808090749135 Train_acc: 5.523604121734963
+ --Train--  Epoch: 6/50  Train_avg_loss: 9.644163830656755 Train_acc: 8.02871942339951
+ --Train--  Epoch: 7/50  Train_avg_loss: 9.601732153236766 Train_acc: 9.94764880458626
+ --Train--  Epoch: 8/50  Train_avg_loss: 9.536047194202403 Train_acc: 11.79560913565227
+ --Train--  Epoch: 9/50  Train_avg_loss: 9.410770745714572 Train_acc: 13.803019410496047
+ --Train--  Epoch: 10/50  Train_avg_loss: 9.280068170356426 Train_acc: 15.685081752659036
+ --Train--  Epoch: 11/50  Train_avg_loss: 9.065797190836209 Train_acc: 17.886965658353148
+ --Train--  Epoch: 12/50  Train_avg_loss: 8.874680710203174 Train_acc: 20.213275820752457
+ --Train--  Epoch: 13/50  Train_avg_loss: 8.622377290426167 Train_acc: 22.628066876808788
+ --Train--  Epoch: 14/50  Train_avg_loss: 8.438357147822355 Train_acc: 24.880642961160575
+ --Train--  Epoch: 15/50  Train_avg_loss: 8.200845930896104 Train_acc: 26.978377481612565
+ --Train--  Epoch: 16/50  Train_avg_loss: 8.043640386754669 Train_acc: 28.790392449630406
+ --Train--  Epoch: 17/50  Train_avg_loss: 7.910855007900245 Train_acc: 30.38120518350569
+ --Train--  Epoch: 18/50  Train_avg_loss: 7.737324417062445 Train_acc: 31.673394901288503
+ --Train--  Epoch: 19/50  Train_avg_loss: 7.630235449405599 Train_acc: 33.159136573946064
+ --Train--  Epoch: 20/50  Train_avg_loss: 7.531275782722771 Train_acc: 34.081734225515675
+ --Train--  Epoch: 21/50  Train_avg_loss: 7.4282469611418875 Train_acc: 34.99142841342697
+ --Train--  Epoch: 22/50  Train_avg_loss: 7.382374487162041 Train_acc: 35.85411712658298
+ --Train--  Epoch: 23/50  Train_avg_loss: 7.281622955450987 Train_acc: 36.4983686335232
+ --Train--  Epoch: 24/50  Train_avg_loss: 7.211876880717804 Train_acc: 37.30760014009475
+ --Train--  Epoch: 25/50  Train_avg_loss: 7.193616748260926 Train_acc: 37.78502829545245
+ --Train--  Epoch: 26/50  Train_avg_loss: 7.1048090526729775 Train_acc: 38.60531991373113
+ --Train--  Epoch: 27/50  Train_avg_loss: 7.0773140033356 Train_acc: 38.902099577872406
+ --Train--  Epoch: 28/50  Train_avg_loss: 7.001436082636763 Train_acc: 39.53989935298347
+ --Train--  Epoch: 29/50  Train_avg_loss: 6.9988545984181565 Train_acc: 39.856034212612215
+ --Train--  Epoch: 30/50  Train_avg_loss: 6.969246873487236 Train_acc: 40.11686851370532
+ --Train--  Epoch: 31/50  Train_avg_loss: 6.890933715244707 Train_acc: 40.571254769673175
+ --Train--  Epoch: 32/50  Train_avg_loss: 6.863491206116507 Train_acc: 41.167579125882504
+ --Train--  Epoch: 33/50  Train_avg_loss: 6.874491972854465 Train_acc: 41.07725488027429
+ --Train--  Epoch: 34/50  Train_avg_loss: 6.813274832897154 Train_acc: 41.73440985087283
+ --Train--  Epoch: 35/50  Train_avg_loss: 6.7819410841918355 Train_acc: 42.03026783903851
+ --Train--  Epoch: 36/50  Train_avg_loss: 6.77034785474298 Train_acc: 42.333499235008944
+ --Train--  Epoch: 37/50  Train_avg_loss: 6.692181142805388 Train_acc: 42.92060683146233
+ --Train--  Epoch: 38/50  Train_avg_loss: 6.699064694924346 Train_acc: 42.75286180390422
+ --Train--  Epoch: 39/50  Train_avg_loss: 6.666714332443749 Train_acc: 43.19526627218935
+ --Train--  Epoch: 40/50  Train_avg_loss: 6.6461552996789255 Train_acc: 43.39158325499088
+ --Train--  Epoch: 41/50  Train_avg_loss: 6.620196638052653 Train_acc: 43.493889288281814
+ --Train--  Epoch: 42/50  Train_avg_loss: 6.618019951260151 Train_acc: 43.7427418016922
+ --Train--  Epoch: 43/50  Train_avg_loss: 6.6088059446402845 Train_acc: 43.84873453888551
+ --Train--  Epoch: 44/50  Train_avg_loss: 6.580630033833871 Train_acc: 44.10496046010065
+ --Train--  Epoch: 45/50  Train_avg_loss: 6.55548917994232 Train_acc: 44.20910984534277
+ --Train--  Epoch: 46/50  Train_avg_loss: 6.550953184455279 Train_acc: 44.39989677229073
+ --Train--  Epoch: 47/50  Train_avg_loss: 6.527518299328249 Train_acc: 44.774097218381904
+ --Train--  Epoch: 48/50  Train_avg_loss: 6.490505652577444 Train_acc: 44.70865822411473
+ --Train--  Epoch: 49/50  Train_avg_loss: 6.460397814793579 Train_acc: 45.105900569595754
+ --Train--  Epoch: 50/50  Train_avg_loss: 6.480153362516232 Train_acc: 45.02663643569467
+Start Time: 2020-05-28 20:25:05.
+ --Train--  Epoch: 1/50  Train_avg_loss: 10.118805198798965 Train_acc: 0.20737709450865455
+ --Train--  Epoch: 2/50  Train_avg_loss: 9.633384553604904 Train_acc: 1.3410385444892994
+ --Train--  Epoch: 3/50  Train_avg_loss: 9.295082260028211 Train_acc: 2.936459658242548
+Start Time: 2020-05-28 21:35:39.
+ --Train--  Epoch: 1/50  Train_avg_loss: 10.11797749894989 Train_acc: 0.19078692694796218
+ --Train--  Epoch: 2/50  Train_avg_loss: 9.74677256647314 Train_acc: 1.2663827904661837
+ --Train--  Epoch: 3/50  Train_avg_loss: 9.266095150508784 Train_acc: 2.8618039042194328
+ --Train--  Epoch: 4/50  Train_avg_loss: 9.20325331639353 Train_acc: 4.108831499198142
+ --Train--  Epoch: 5/50  Train_avg_loss: 9.337729323213898 Train_acc: 5.259083116739479
+ --Train--  Epoch: 6/50  Train_avg_loss: 9.411700310286115 Train_acc: 6.392744566720124
+ --Train--  Epoch: 7/50  Train_avg_loss: 9.469425517270034 Train_acc: 7.672030820844624
+ --Train--  Epoch: 8/50  Train_avg_loss: 9.436201176092863 Train_acc: 8.882191376799572
+ --Train--  Epoch: 9/50  Train_avg_loss: 9.338571501425855 Train_acc: 11.355048019318328
+ --Train--  Epoch: 10/50  Train_avg_loss: 9.148929529643423 Train_acc: 14.571697174141459
+ --Train--  Epoch: 11/50  Train_avg_loss: 9.009055628396052 Train_acc: 17.064830688123283
+ --Train--  Epoch: 12/50  Train_avg_loss: 8.840386210536309 Train_acc: 19.247359398329923
+ --Train--  Epoch: 13/50  Train_avg_loss: 8.709977301069754 Train_acc: 20.85568397574149
+ --Train--  Epoch: 14/50  Train_avg_loss: 8.563744532434564 Train_acc: 22.44741838559236
+ --Train--  Epoch: 15/50  Train_avg_loss: 8.457428042593149 Train_acc: 23.851130896422053
+ --Train--  Epoch: 16/50  Train_avg_loss: 8.321142438393093 Train_acc: 25.355306088591494
+ --Train--  Epoch: 17/50  Train_avg_loss: 8.170236698921347 Train_acc: 26.778373794908664
+ --Train--  Epoch: 18/50  Train_avg_loss: 8.050275508110714 Train_acc: 28.108352227690833
+ --Train--  Epoch: 19/50  Train_avg_loss: 7.908596686151113 Train_acc: 29.450312448155728
+ --Train--  Epoch: 20/50  Train_avg_loss: 7.82343892152524 Train_acc: 30.62729266898929
+ --Train--  Epoch: 21/50  Train_avg_loss: 7.711498059259004 Train_acc: 31.577540599826726
+ --Train--  Epoch: 22/50  Train_avg_loss: 7.5998092065237985 Train_acc: 32.638389647735444
+ --Train--  Epoch: 23/50  Train_avg_loss: 7.502664457436126 Train_acc: 33.69647366771738
+ --Train--  Epoch: 24/50  Train_avg_loss: 7.405442069321618 Train_acc: 34.77483455916238
+ --Train--  Epoch: 25/50  Train_avg_loss: 7.348298817417618 Train_acc: 35.272539585983154
+ --Train--  Epoch: 26/50  Train_avg_loss: 7.232161386652592 Train_acc: 36.281774779258605
+ --Train--  Epoch: 27/50  Train_avg_loss: 7.15997520185286 Train_acc: 37.02003723570942
+ --Train--  Epoch: 28/50  Train_avg_loss: 7.1082389986069785 Train_acc: 37.78779332337923
+ --Train--  Epoch: 29/50  Train_avg_loss: 7.050792552082972 Train_acc: 38.18134896495788
+Start Time: 2020-05-29 08:48:25.
+Start Time: 2020-05-29 11:09:53.
+Start Time: 2020-05-29 11:10:24.
+Start Time: 2020-05-29 11:26:05.
+Start Time: 2020-05-29 11:29:13.
+ --Train--  Epoch: 1/50  Train_avg_loss: 10.030590507656285 Train_acc: 0.63964312706225
+ --Train--  Epoch: 2/50  Train_avg_loss: 9.616742555151973 Train_acc: 2.1216980958174343
+ --Train--  Epoch: 3/50  Train_avg_loss: 9.206832804420808 Train_acc: 3.692233958229645
+Start Time: 2020-05-29 12:42:50.
+ --Train--  Epoch: 1/50  Train_avg_loss: 10.024186431329401 Train_acc: 0.7225939648657118
+ --Train--  Epoch: 2/50  Train_avg_loss: 9.570395850487598 Train_acc: 2.0267654703312505
+ --Train--  Epoch: 3/50  Train_avg_loss: 9.201549671461303 Train_acc: 3.5890062489631145
+ --Train--  Epoch: 4/50  Train_avg_loss: 9.066773750462232 Train_acc: 5.035115854670132
+ --Train--  Epoch: 5/50  Train_avg_loss: 9.205125578676299 Train_acc: 6.1798374163579055
+ --Train--  Epoch: 6/50  Train_avg_loss: 9.280331254774524 Train_acc: 7.47387048609191
+ --Train--  Epoch: 7/50  Train_avg_loss: 9.316170120036865 Train_acc: 8.769746907777101
+ --Train--  Epoch: 8/50  Train_avg_loss: 9.322536732264002 Train_acc: 10.061936625559918
+ --Train--  Epoch: 9/50  Train_avg_loss: 9.297227485232524 Train_acc: 11.641689247728069
+ --Train--  Epoch: 10/50  Train_avg_loss: 9.214529118594573 Train_acc: 13.654629578425409
+ --Train--  Epoch: 11/50  Train_avg_loss: 9.084158314873285 Train_acc: 16.196611919113717
+ --Train--  Epoch: 12/50  Train_avg_loss: 8.894074831187016 Train_acc: 18.844586996995336
+ --Train--  Epoch: 13/50  Train_avg_loss: 8.764347303419648 Train_acc: 21.0234290032996
+ --Train--  Epoch: 14/50  Train_avg_loss: 8.608237146865735 Train_acc: 22.818853803756753
+ --Train--  Epoch: 15/50  Train_avg_loss: 8.507989608877178 Train_acc: 24.443768548729008
+ --Train--  Epoch: 16/50  Train_avg_loss: 8.358261971127602 Train_acc: 25.802318936754595
+ --Train--  Epoch: 17/50  Train_avg_loss: 8.252673711861739 Train_acc: 27.130454017585578
+ --Train--  Epoch: 18/50  Train_avg_loss: 8.130536698505713 Train_acc: 28.476100941952847
+ --Train--  Epoch: 19/50  Train_avg_loss: 8.015837699225479 Train_acc: 29.80700105071061
+ --Train--  Epoch: 20/50  Train_avg_loss: 7.88528387609281 Train_acc: 31.094582388615457
+ --Train--  Epoch: 21/50  Train_avg_loss: 7.759901908925515 Train_acc: 32.32870651993585
+ --Train--  Epoch: 22/50  Train_avg_loss: 7.631167678031533 Train_acc: 33.57389076296337
+ --Train--  Epoch: 23/50  Train_avg_loss: 7.5241896614963615 Train_acc: 34.64672159855481
+ --Train--  Epoch: 24/50  Train_avg_loss: 7.428197095997264 Train_acc: 35.63660159634279
+ --Train--  Epoch: 25/50  Train_avg_loss: 7.317966331589607 Train_acc: 36.7287876274217
+Start Time: 2020-05-29 22:14:24.
+Start Time: 2020-05-29 22:15:47.
+Start Time: 2020-05-29 22:37:03.
+Start Time: 2020-05-29 22:37:42.
+Start Time: 2020-05-29 22:45:10.
+Start Time: 2020-05-29 23:03:04.
+Start Time: 2020-05-29 23:03:24.
+Start Time: 2020-05-29 23:08:25.
+Start Time: 2020-05-29 23:08:55.
+Start Time: 2020-05-29 23:19:26.
+Start Time: 2020-05-29 23:21:57.
+Start Time: 2020-05-29 23:22:37.
+Start Time: 2020-05-29 23:23:00.
+Start Time: 2020-05-29 23:31:05.
+Start Time: 2020-05-29 23:31:33.
+Start Time: 2020-05-29 23:32:25.
+Start Time: 2020-05-29 23:33:47.
+Start Time: 2020-05-29 23:49:51.
+Start Time: 2020-05-29 23:51:41.
+Start Time: 2020-05-29 23:52:04.
+Start Time: 2020-05-29 23:53:54.
+Start Time: 2020-05-29 23:54:16.
+Start Time: 2020-05-29 23:56:00.
+Start Time: 2020-05-29 23:59:09.
+Start Time: 2020-05-30 00:01:02.
+Start Time: 2020-05-30 00:04:14.
+Start Time: 2020-05-30 00:04:41.
+Start Time: 2020-05-30 00:05:07.
+Start Time: 2020-05-30 00:14:47.
+Start Time: 2020-05-30 00:20:57.
+Start Time: 2020-05-30 00:24:04.
+Start Time: 2020-05-30 00:27:00.
+ --Train--  Epoch: 1/50  Train_avg_loss: 9.949560086229257 Train_acc: 1.136426477907427
+ --Train--  Epoch: 2/50  Train_avg_loss: 9.64600513778842 Train_acc: 1.6599384320448303
+Start Time: 2020-05-30 01:14:52.
+Start Time: 2020-05-30 01:16:15.
+Start Time: 2020-05-30 01:17:34.
+Start Time: 2020-05-30 01:18:57.
+Start Time: 2020-05-30 01:20:07.
+Start Time: 2020-05-30 01:20:41.
+Start Time: 2020-05-30 01:38:59.
+Start Time: 2020-05-30 01:39:23.
+Start Time: 2020-05-30 01:40:24.
+Start Time: 2020-05-30 01:40:47.
+Start Time: 2020-05-30 01:42:39.
+Start Time: 2020-05-30 01:43:15.
+Start Time: 2020-05-30 01:44:11.
+Start Time: 2020-05-30 01:44:38.
+Start Time: 2020-05-30 01:45:43.
+Start Time: 2020-05-30 01:46:06.
+ --Train--  Epoch: 1/50  Train_avg_loss: 9.967690574697809 Train_acc: 1.0267470368117384
+ --Train--  Epoch: 2/50  Train_avg_loss: 9.69751503188258 Train_acc: 1.3806706114398422
+ --Train--  Epoch: 3/50  Train_avg_loss: 9.385103255054947 Train_acc: 2.319858430570149
+ --Train--  Epoch: 4/50  Train_avg_loss: 9.450245723578643 Train_acc: 4.356762336632933
+ --Train--  Epoch: 5/50  Train_avg_loss: 9.580028180031704 Train_acc: 6.121771829895482
+ --Train--  Epoch: 6/50  Train_avg_loss: 9.602648251408834 Train_acc: 8.170657523640989
+Start Time: 2020-05-30 07:05:46.
+Start Time: 2020-05-30 07:11:14.
+Start Time: 2020-05-30 07:11:31.
+ --Train--  Epoch: 1/50  Train_avg_loss: 9.974507117069031 Train_acc: 1.1355048019318328
+ --Train--  Epoch: 2/50  Train_avg_loss: 9.692053718761192 Train_acc: 1.282972958026876
+ --Train--  Epoch: 3/50  Train_avg_loss: 9.418294463092888 Train_acc: 2.2682445759368837
+Start Time: 2020-05-30 08:36:37.
+Start Time: 2020-05-30 08:41:13.
+ --Train--  Epoch: 1/50  Train_avg_loss: 9.947925460763617 Train_acc: 1.1235230142491106
+ --Train--  Epoch: 2/50  Train_avg_loss: 9.659288142856798 Train_acc: 1.6212280410698814
+ --Train--  Epoch: 3/50  Train_avg_loss: 9.391058197329121 Train_acc: 2.239672620693469
+ --Train--  Epoch: 4/50  Train_avg_loss: 9.471443918645887 Train_acc: 4.041549152979778
+Start Time: 2020-05-30 10:17:42.
+Start Time: 2020-05-30 10:18:03.
+Start Time: 2020-05-30 10:22:18.
+Start Time: 2020-05-30 10:36:20.
+Start Time: 2020-05-30 10:37:10.
+Start Time: 2020-05-30 10:38:32.
+Start Time: 2020-05-30 11:40:31.
+Start Time: 2020-05-30 11:41:09.
+Start Time: 2020-05-30 11:41:47.
+Start Time: 2020-05-30 11:42:43.
+Start Time: 2020-05-30 11:45:00.
+Start Time: 2020-05-30 11:46:19.
+Start Time: 2020-05-30 11:48:46.
+Start Time: 2020-05-30 12:32:44.
+Start Time: 2020-05-30 12:33:11.
+ --Train--  Epoch: 1/50  Train_avg_loss: 9.935056033806404 Train_acc: 1.2544010027834613
+ --Train--  Epoch: 2/50  Train_avg_loss: 9.60870608101474 Train_acc: 1.7170823425316595
+ --Train--  Epoch: 3/50  Train_avg_loss: 9.364107472261063 Train_acc: 2.429537871665837
+ --Train--  Epoch: 4/50  Train_avg_loss: 9.410447055577018 Train_acc: 4.20468580065992
+ --Train--  Epoch: 5/50  Train_avg_loss: 9.551455839987725 Train_acc: 5.873840992460691
+ --Train--  Epoch: 6/50  Train_avg_loss: 9.659065548147128 Train_acc: 7.148518866707221
+ --Train--  Epoch: 7/50  Train_avg_loss: 9.705282224216363 Train_acc: 8.468358863757857
+ --Train--  Epoch: 8/50  Train_avg_loss: 9.730679029762644 Train_acc: 9.857324558978046
+ --Train--  Epoch: 9/50  Train_avg_loss: 9.680012967023865 Train_acc: 11.846301314309942
+ --Train--  Epoch: 10/50  Train_avg_loss: 9.495579708007075 Train_acc: 14.917325664989216
+ --Train--  Epoch: 11/50  Train_avg_loss: 9.291601738500676 Train_acc: 17.770834485428303
+ --Train--  Epoch: 12/50  Train_avg_loss: 9.097673671031039 Train_acc: 20.194842301240577
+ --Train--  Epoch: 13/50  Train_avg_loss: 8.881043302871173 Train_acc: 22.741433021806852
+ --Train--  Epoch: 14/50  Train_avg_loss: 8.601527818941301 Train_acc: 25.660380836513117
+ --Train--  Epoch: 15/50  Train_avg_loss: 8.351729941621095 Train_acc: 28.088075356227765
+ --Train--  Epoch: 16/50  Train_avg_loss: 8.118234014936133 Train_acc: 30.545263507161422
+ --Train--  Epoch: 17/50  Train_avg_loss: 7.909074299262619 Train_acc: 32.398753894081
+ --Train--  Epoch: 18/50  Train_avg_loss: 7.730655422538569 Train_acc: 34.12320964441741
+ --Train--  Epoch: 19/50  Train_avg_loss: 7.591409509007919 Train_acc: 35.5573374624417
+ --Train--  Epoch: 20/50  Train_avg_loss: 7.460238364394533 Train_acc: 36.858743939980464
+ --Train--  Epoch: 21/50  Train_avg_loss: 7.364908641040427 Train_acc: 37.98318863020516
+ --Train--  Epoch: 22/50  Train_avg_loss: 7.244428907155181 Train_acc: 39.003483935187745
+ --Train--  Epoch: 23/50  Train_avg_loss: 7.1425302781152 Train_acc: 39.87907611200207
+ --Train--  Epoch: 24/50  Train_avg_loss: 7.08685806404755 Train_acc: 40.60996516064812
+ --Train--  Epoch: 25/50  Train_avg_loss: 7.007482512829057 Train_acc: 41.20352448893067
+ --Train--  Epoch: 26/50  Train_avg_loss: 6.951652382063744 Train_acc: 41.77772862172574
+ --Train--  Epoch: 27/50  Train_avg_loss: 6.92426805961719 Train_acc: 42.32612582720419
+ --Train--  Epoch: 28/50  Train_avg_loss: 6.8691874218108495 Train_acc: 42.64410403878413
+ --Train--  Epoch: 29/50  Train_avg_loss: 6.82315298288504 Train_acc: 43.10770705450792
+ --Train--  Epoch: 30/50  Train_avg_loss: 6.799633458889199 Train_acc: 43.48190750059909
+ --Train--  Epoch: 31/50  Train_avg_loss: 6.737417918302005 Train_acc: 44.077310180832825
+ --Train--  Epoch: 32/50  Train_avg_loss: 6.7079010607127625 Train_acc: 44.43123375546093
+ --Train--  Epoch: 33/50  Train_avg_loss: 6.689039580566976 Train_acc: 44.78239230216225
+ --Train--  Epoch: 34/50  Train_avg_loss: 6.628966324236275 Train_acc: 45.21097163081347
+ --Train--  Epoch: 35/50  Train_avg_loss: 6.616740187177836 Train_acc: 45.32710280373832
+ --Train--  Epoch: 36/50  Train_avg_loss: 6.563914470154482 Train_acc: 45.55291341775885
+ --Train--  Epoch: 37/50  Train_avg_loss: 6.562689539304411 Train_acc: 45.88932514885067
+ --Train--  Epoch: 38/50  Train_avg_loss: 6.530787847007677 Train_acc: 46.08195542774982
+ --Train--  Epoch: 39/50  Train_avg_loss: 6.504315026532005 Train_acc: 46.2856458183561
+ --Train--  Epoch: 40/50  Train_avg_loss: 6.50801263016432 Train_acc: 46.29854928201441
+ --Train--  Epoch: 41/50  Train_avg_loss: 6.471946388928312 Train_acc: 46.52896827591292
+ --Train--  Epoch: 42/50  Train_avg_loss: 6.458325319890255 Train_acc: 47.14096112370735
+ --Train--  Epoch: 43/50  Train_avg_loss: 6.430982031821193 Train_acc: 47.32898302272853
+ --Train--  Epoch: 44/50  Train_avg_loss: 6.394460506228721 Train_acc: 47.362163357849916
+ --Train--  Epoch: 45/50  Train_avg_loss: 6.369334008717982 Train_acc: 47.54834190491991
+ --Train--  Epoch: 46/50  Train_avg_loss: 6.346675410052107 Train_acc: 47.56124536857822
+ --Train--  Epoch: 47/50  Train_avg_loss: 6.360577828602799 Train_acc: 47.79995944625708
+ --Train--  Epoch: 48/50  Train_avg_loss: 6.3601926301958605 Train_acc: 47.85433832881712
+ --Train--  Epoch: 49/50  Train_avg_loss: 6.304720521448829 Train_acc: 48.171394864421465
+ --Train--  Epoch: 50/50  Train_avg_loss: 6.304440889632763 Train_acc: 48.24420726649339
+Start Time: 2020-05-31 07:47:34.
+ --Train--  Epoch: 1/50  Train_avg_loss: 10.128716883068376 Train_acc: 0.30046636804365057
+ --Train--  Epoch: 2/50  Train_avg_loss: 9.828858157289048 Train_acc: 0.7576176519382846
+ --Train--  Epoch: 3/50  Train_avg_loss: 9.445897081914296 Train_acc: 2.0028018949658057
+ --Train--  Epoch: 4/50  Train_avg_loss: 9.415609681828924 Train_acc: 5.099633172961713
+ --Train--  Epoch: 5/50  Train_avg_loss: 9.415303469959058 Train_acc: 8.2305664620546
+ --Train--  Epoch: 6/50  Train_avg_loss: 9.354693024874948 Train_acc: 11.033383103836016
+ --Train--  Epoch: 7/50  Train_avg_loss: 9.216200291968768 Train_acc: 14.025143320614205
+ --Train--  Epoch: 8/50  Train_avg_loss: 9.00637225695903 Train_acc: 17.24271415141293
+ --Train--  Epoch: 9/50  Train_avg_loss: 8.778311754042102 Train_acc: 20.455676602333682
+ --Train--  Epoch: 10/50  Train_avg_loss: 8.49022112451304 Train_acc: 23.935925086176702
+ --Train--  Epoch: 11/50  Train_avg_loss: 8.28386042850734 Train_acc: 26.595881951741045
+ --Train--  Epoch: 12/50  Train_avg_loss: 8.049535873527235 Train_acc: 29.083485409869308
+ --Train--  Epoch: 13/50  Train_avg_loss: 7.88109194163758 Train_acc: 31.077992221054767
+ --Train--  Epoch: 14/50  Train_avg_loss: 7.756543401991775 Train_acc: 32.6918468543199
+ --Train--  Epoch: 15/50  Train_avg_loss: 7.638358471551451 Train_acc: 33.95915132076167
+ --Train--  Epoch: 16/50  Train_avg_loss: 7.536963692444087 Train_acc: 35.272539585983154
+ --Train--  Epoch: 17/50  Train_avg_loss: 7.39463412960033 Train_acc: 36.589614555107005
+ --Train--  Epoch: 18/50  Train_avg_loss: 7.31669434025656 Train_acc: 37.405297793507714
+ --Train--  Epoch: 19/50  Train_avg_loss: 7.242649709874787 Train_acc: 38.17305388117753
+ --Train--  Epoch: 20/50  Train_avg_loss: 7.179137820319125 Train_acc: 39.11685008018581
+ --Train--  Epoch: 21/50  Train_avg_loss: 7.1277449688199015 Train_acc: 39.67262069346901
+ --Train--  Epoch: 22/50  Train_avg_loss: 7.0690856107426825 Train_acc: 40.23576471455695
+ --Train--  Epoch: 23/50  Train_avg_loss: 7.042348371539739 Train_acc: 40.67356080296411
+ --Train--  Epoch: 24/50  Train_avg_loss: 6.965898637941616 Train_acc: 41.36942616453759
+ --Train--  Epoch: 25/50  Train_avg_loss: 6.909443872539621 Train_acc: 41.833029180261384
+ --Train--  Epoch: 26/50  Train_avg_loss: 6.939413659631295 Train_acc: 41.86620951538277
+ --Train--  Epoch: 27/50  Train_avg_loss: 6.865834814542826 Train_acc: 42.42658850854394
+ --Train--  Epoch: 28/50  Train_avg_loss: 6.850784223613998 Train_acc: 42.53626794963962
+ --Train--  Epoch: 29/50  Train_avg_loss: 6.828963865610456 Train_acc: 43.141809065604896
+ --Train--  Epoch: 30/50  Train_avg_loss: 6.7771115250923435 Train_acc: 43.661634315839926
+ --Train--  Epoch: 31/50  Train_avg_loss: 6.734909858565986 Train_acc: 43.800807388154624
+ --Train--  Epoch: 32/50  Train_avg_loss: 6.732908969125845 Train_acc: 44.14459252705119
+ --Train--  Epoch: 33/50  Train_avg_loss: 6.682519797092787 Train_acc: 44.51141956533761
+ --Train--  Epoch: 34/50  Train_avg_loss: 6.647561931863098 Train_acc: 44.53353978875187
+ --Train--  Epoch: 35/50  Train_avg_loss: 6.6330623044222845 Train_acc: 44.9436855978912
+ --Train--  Epoch: 36/50  Train_avg_loss: 6.5980680692276845 Train_acc: 45.1132739774005
+ --Train--  Epoch: 37/50  Train_avg_loss: 6.607247906123843 Train_acc: 45.28654906081218
+ --Train--  Epoch: 38/50  Train_avg_loss: 6.585005112278239 Train_acc: 45.436782244834006
+ --Train--  Epoch: 39/50  Train_avg_loss: 6.559371389213362 Train_acc: 45.689321462146765
+ --Train--  Epoch: 40/50  Train_avg_loss: 6.515317348075844 Train_acc: 46.076425371896256
+ --Train--  Epoch: 41/50  Train_avg_loss: 6.530178611888748 Train_acc: 45.9916311821416
+ --Train--  Epoch: 42/50  Train_avg_loss: 6.472419151790276 Train_acc: 46.3778134159155
+Start Time: 2020-06-01 11:57:34.
+
+# 无参数共享  Time Embedding
+Start Time: 2020-06-01 11:57:55.
+ --Train--  Epoch: 1/50  Train_avg_loss: 10.685845860842617 Train_acc: 0.13777119680679842
+ --Train--  Epoch: 2/50  Train_avg_loss: 10.342171322956538 Train_acc: 0.3811240584561901
+ --Train--  Epoch: 3/50  Train_avg_loss: 9.760636623425501 Train_acc: 1.081568273997296
+ --Train--  Epoch: 4/50  Train_avg_loss: 9.208475192222261 Train_acc: 1.9339470804094507
+ --Train--  Epoch: 5/50  Train_avg_loss: 9.01355965011266 Train_acc: 2.7064958475503764
+ --Train--  Epoch: 6/50  Train_avg_loss: 8.91668416182664 Train_acc: 3.493208008755553
+ --Train--  Epoch: 7/50  Train_avg_loss: 8.874275209308417 Train_acc: 4.2606064507822055
+ --Train--  Epoch: 8/50  Train_avg_loss: 8.838622857650751 Train_acc: 4.961050666323311
+ --Train--  Epoch: 9/50  Train_avg_loss: 8.773792472666827 Train_acc: 5.504409965879096
+ --Train--  Epoch: 10/50  Train_avg_loss: 8.745902233990394 Train_acc: 6.110860748084723
+ --Train--  Epoch: 11/50  Train_avg_loss: 8.681722293848194 Train_acc: 6.812592544904397
+ --Train--  Epoch: 12/50  Train_avg_loss: 8.62904906382209 Train_acc: 7.348226356788772
+
+ # Token Time 参数共享 Time Embedding
+Start Time: 2020-06-01 13:47:18.
+ --Train--  Epoch: 1/50  Train_avg_loss: 10.570890644283383 Train_acc: 0.16867314749243545
+ --Train--  Epoch: 2/50  Train_avg_loss: 10.273199040077785 Train_acc: 0.4828429794630786
+ --Train--  Epoch: 3/50  Train_avg_loss: 9.858558799287287 Train_acc: 0.614176269877036
+ --Train--  Epoch: 4/50  Train_avg_loss: 9.515040454093294 Train_acc: 0.6090259447627632
+ --Train--  Epoch: 5/50  Train_avg_loss: 9.475539417155538 Train_acc: 0.6515161269555141
+ --Train--  Epoch: 6/50  Train_avg_loss: 9.522602278274912 Train_acc: 0.6515161269555141
+
+# No Time Embedding.
+Start Time: 2020-06-01 14:50:31.
+ --Train--  Epoch: 1/50  Train_avg_loss: 10.555710862705538 Train_acc: 0.1313332904139574
+ --Train--  Epoch: 2/50  Train_avg_loss: 10.268586809906477 Train_acc: 0.47511749179166934
+ --Train--  Epoch: 3/50  Train_avg_loss: 9.927160647472972 Train_acc: 0.6553788707912187
+ --Train--  Epoch: 4/50  Train_avg_loss: 9.626898333051395 Train_acc: 0.6708298461340372
+ --Train--  Epoch: 5/50  Train_avg_loss: 9.614975433937953 Train_acc: 0.5794115753556943
+ --Train--  Epoch: 6/50  Train_avg_loss: 9.667110007422425 Train_acc: 0.47898023562737396
+ --Train--  Epoch: 7/50  Train_avg_loss: 9.756773647540507 Train_acc: 0.47382991051310114
+ --Train--  Epoch: 8/50  Train_avg_loss: 9.829366990654307 Train_acc: 0.4519410287774416
+ --Train--  Epoch: 9/50  Train_avg_loss: 9.908088244215158 Train_acc: 0.4635292602845555
+ --Train--  Epoch: 10/50  Train_avg_loss: 9.990647669383117 Train_acc: 0.39271228996330393
+
+# No Long sequence.
+Start Time: 2020-06-02 17:12:15.
+ --Train--  Epoch: 1/50  Train_avg_loss: 9.903357390280243 Train_acc: 0.17874846035990027
+ --Train--  Epoch: 2/50  Train_avg_loss: 9.72918080717122 Train_acc: 0.2433382401538138
+ --Train--  Epoch: 3/50  Train_avg_loss: 9.445366844392682 Train_acc: 0.40556373358968967
+ --Train--  Epoch: 4/50  Train_avg_loss: 9.716516155718365 Train_acc: 0.5722954907321176
+ --Train--  Epoch: 5/50  Train_avg_loss: 9.87697553820364 Train_acc: 0.6143539519932707
+ --Train--  Epoch: 6/50  Train_avg_loss: 10.007072356752435 Train_acc: 0.6774416438850002
+ --Train--  Epoch: 7/50  Train_avg_loss: 10.119510218927667 Train_acc: 0.7450355994832818
+ --Train--  Epoch: 8/50  Train_avg_loss: 10.187319900973282 Train_acc: 0.7570523027007541
+ --Train--  Epoch: 9/50  Train_avg_loss: 10.29726638181068 Train_acc: 0.7510439510920179
+ --Train--  Epoch: 10/50  Train_avg_loss: 10.294397356540342 Train_acc: 0.8111274671793793
+
+# No Time Embedding.
+Start Time: 2020-06-02 20:24:18.
+
+# No Time Embedding.
+Start Time: 2020-06-02 20:43:28.
+
+# No Time Embedding.
+Start Time: 2020-06-02 20:47:55.
+
+# No Time Embedding.
+Start Time: 2020-06-02 20:48:14.
+
+# No Time Embedding.
+Start Time: 2020-06-02 20:50:15.
+
+# No Time Embedding.
+Start Time: 2020-06-02 20:51:01.
+
+# No Time Embedding.
+Start Time: 2020-06-02 20:55:53.
+
+# No Time Embedding.
+Start Time: 2020-06-02 20:56:13.
+
+# No Time Embedding.
+Start Time: 2020-06-02 21:00:14.
+
+# No Time Embedding.
+Start Time: 2020-06-02 21:00:39.
+
+# No Time Embedding.
+Start Time: 2020-06-02 21:02:44.
+
+# No Time Embedding.
+Start Time: 2020-06-02 21:03:43.
+
+# No Time Embedding.
+Start Time: 2020-06-02 21:05:54.
+
+# No Time Embedding.
+Start Time: 2020-06-02 21:10:34.
+ --Train--  Epoch: 1/50  Train_avg_loss: 17.264423832340853 Train_acc: 0.2643674707843903
+ --Train--  Epoch: 2/50  Train_avg_loss: 13.238401661457779 Train_acc: 0.3064259320455433
+ --Train--  Epoch: 3/50  Train_avg_loss: 13.21932047701857 Train_acc: 0.3529906570132484
+ --Train--  Epoch: 4/50  Train_avg_loss: 13.439032198043273 Train_acc: 0.5422537326884369
+ --Train--  Epoch: 5/50  Train_avg_loss: 13.60793593628613 Train_acc: 0.5542704359059092
+ --Train--  Epoch: 6/50  Train_avg_loss: 13.764196212382256 Train_acc: 0.6458977979391354
+ --Train--  Epoch: 7/50  Train_avg_loss: 13.830120310091578 Train_acc: 0.6624207648631598
+ --Train--  Epoch: 8/50  Train_avg_loss: 13.879292748292443 Train_acc: 0.6639228527653438
+ --Train--  Epoch: 9/50  Train_avg_loss: 13.923745341797767 Train_acc: 0.7315168083636254
+ --Train--  Epoch: 10/50  Train_avg_loss: 13.983814576584502 Train_acc: 0.7900982365488028
+ --Train--  Epoch: 11/50  Train_avg_loss: 13.979008416284488 Train_acc: 0.8712109832667407
+ --Train--  Epoch: 12/50  Train_avg_loss: 13.988968231290318 Train_acc: 0.8306546099077718
+ --Train--  Epoch: 13/50  Train_avg_loss: 13.963994595417144 Train_acc: 0.9147715324300778
+ --Train--  Epoch: 14/50  Train_avg_loss: 14.011636573732073 Train_acc: 0.9297924114519182
+ --Train--  Epoch: 15/50  Train_avg_loss: 14.025736524160324 Train_acc: 0.9087631808213417
+ --Train--  Epoch: 16/50  Train_avg_loss: 14.048407985683541 Train_acc: 0.9673446090065191
+ --Train--  Epoch: 17/50  Train_avg_loss: 14.06555665163822 Train_acc: 0.9478174662781266
+ --Train--  Epoch: 18/50  Train_avg_loss: 14.094165148823263 Train_acc: 0.922281971940998
+ --Train--  Epoch: 19/50  Train_avg_loss: 14.07721671825955 Train_acc: 1.001892630756752
+ --Train--  Epoch: 20/50  Train_avg_loss: 14.152396563499325 Train_acc: 0.8667047195601887
+ --Train--  Epoch: 21/50  Train_avg_loss: 14.176175186394948 Train_acc: 0.8772193348754769
+ --Train--  Epoch: 22/50  Train_avg_loss: 14.17549353992347 Train_acc: 0.881725598582029
+ --Train--  Epoch: 23/50  Train_avg_loss: 14.198062895799914 Train_acc: 0.8231441703968516
+ --Train--  Epoch: 24/50  Train_avg_loss: 14.213433393275958 Train_acc: 0.8396671373208761
+ --Train--  Epoch: 25/50  Train_avg_loss: 14.264472827057062 Train_acc: 0.797608676059723
+ --Train--  Epoch: 26/50  Train_avg_loss: 14.325755064257628 Train_acc: 0.7600564785051221
+ --Train--  Epoch: 27/50  Train_avg_loss: 14.370013164568551 Train_acc: 0.7270105446570734
+ --Train--  Epoch: 28/50  Train_avg_loss: 14.374273503813331 Train_acc: 0.6428936221347673
+ --Train--  Epoch: 29/50  Train_avg_loss: 14.323870206459588 Train_acc: 0.6594165890587917
+ --Train--  Epoch: 30/50  Train_avg_loss: 14.34010740631163 Train_acc: 0.6473998858413195
+ --Train--  Epoch: 31/50  Train_avg_loss: 14.342502585265281 Train_acc: 0.6594165890587917
+ --Train--  Epoch: 32/50  Train_avg_loss: 14.382072508718162 Train_acc: 0.6188602156998227
+ --Train--  Epoch: 33/50  Train_avg_loss: 14.367132413839991 Train_acc: 0.6579145011566077
+ --Train--  Epoch: 34/50  Train_avg_loss: 14.367505248867433 Train_acc: 0.6999729624177606
+ --Train--  Epoch: 35/50  Train_avg_loss: 14.27962579392876 Train_acc: 0.6954666987112086
+ --Train--  Epoch: 36/50  Train_avg_loss: 14.294584711849284 Train_acc: 0.7164959293417851
+ --Train--  Epoch: 37/50  Train_avg_loss: 14.260768174985833 Train_acc: 0.7315168083636254
+ --Train--  Epoch: 38/50  Train_avg_loss: 14.277031393339014 Train_acc: 0.7029771382221287
+ --Train--  Epoch: 39/50  Train_avg_loss: 14.292673993133873 Train_acc: 0.6594165890587917
+ --Train--  Epoch: 40/50  Train_avg_loss: 14.324467876846626 Train_acc: 0.9057590050169736
+ --Train--  Epoch: 41/50  Train_avg_loss: 14.331050088691153 Train_acc: 0.8216420824946676
+ --Train--  Epoch: 42/50  Train_avg_loss: 14.307060627626235 Train_acc: 0.84116922522306
+ --Train--  Epoch: 43/50  Train_avg_loss: 14.360307580284854 Train_acc: 0.8276504341034038
+ --Train--  Epoch: 44/50  Train_avg_loss: 14.383565004751768 Train_acc: 0.8727130711689248
+ --Train--  Epoch: 45/50  Train_avg_loss: 14.373476533601904 Train_acc: 0.7825877970378826
+ --Train--  Epoch: 46/50  Train_avg_loss: 14.315954018939204 Train_acc: 0.8156337308859315
+ --Train--  Epoch: 47/50  Train_avg_loss: 14.349725498823483 Train_acc: 0.7750773575269625
+ --Train--  Epoch: 48/50  Train_avg_loss: 14.373239838508226 Train_acc: 0.7840898849400667
+ --Train--  Epoch: 49/50  Train_avg_loss: 14.410634463810759 Train_acc: 0.7585543906029381
+ --Train--  Epoch: 50/50  Train_avg_loss: 14.427633462699735 Train_acc: 0.836662961516508
+
+# Time Embeding + Long Sequenc + Local mask.
+Start Time: 2020-06-03 12:59:39.
+ --Train--  Epoch: 1/50  Train_avg_loss: 18.130032594340918 Train_acc: 0.2268152732297894
+ --Train--  Epoch: 2/50  Train_avg_loss: 13.43520021169304 Train_acc: 0.2793883498062307
+ --Train--  Epoch: 3/50  Train_avg_loss: 13.231070745629717 Train_acc: 0.419082524709346
+ --Train--  Epoch: 4/50  Train_avg_loss: 13.39504553600783 Train_acc: 0.47465977709015533
+ --Train--  Epoch: 5/50  Train_avg_loss: 13.535389011628208 Train_acc: 0.5197224141556764
+ --Train--  Epoch: 6/50  Train_avg_loss: 13.606373185935016 Train_acc: 0.6579145011566077
+ --Train--  Epoch: 7/50  Train_avg_loss: 13.657199363095618 Train_acc: 0.7765794454291465
+ --Train--  Epoch: 8/50  Train_avg_loss: 13.725520255619038 Train_acc: 0.7765794454291465
+ --Train--  Epoch: 9/50  Train_avg_loss: 13.745245737133379 Train_acc: 0.8546880163427164
+ --Train--  Epoch: 10/50  Train_avg_loss: 13.766754234614831 Train_acc: 0.9958842791480157
+ --Train--  Epoch: 11/50  Train_avg_loss: 13.745559027410877 Train_acc: 1.1445909814642352
+ --Train--  Epoch: 12/50  Train_avg_loss: 13.718461380450611 Train_acc: 1.1896536185297564
+
+# Note: change mask .
+Start Time: 2020-06-05 20:01:04.
+ --Train--  Epoch: 1/50  Train_avg_loss: 18.10408745332029 Train_acc: 0.21179439420794904
+ --Train--  Epoch: 2/50  Train_avg_loss: 13.41079137555116 Train_acc: 0.19977769099047676
+
+# Note: .
+Start Time: 2020-06-05 20:33:38.
+ --Train--  Epoch: 1/50  Train_avg_loss: 18.055259959212528 Train_acc: 0.19076516357737255
+ --Train--  Epoch: 2/50  Train_avg_loss: 13.398177720230533 Train_acc: 0.25685703127347015
+ --Train--  Epoch: 3/50  Train_avg_loss: 13.256538749553677 Train_acc: 0.39655120617658546
+ --Train--  Epoch: 4/50  Train_avg_loss: 13.438479637287143 Train_acc: 0.39204494247003335
+ --Train--  Epoch: 5/50  Train_avg_loss: 13.624469818182094 Train_acc: 0.459638898068315
+ --Train--  Epoch: 6/50  Train_avg_loss: 13.767203778579846 Train_acc: 0.45813681016613095
+ --Train--  Epoch: 7/50  Train_avg_loss: 13.896044661680703 Train_acc: 0.503199447231652
+ --Train--  Epoch: 8/50  Train_avg_loss: 14.005480220464095 Train_acc: 0.5227265899600445
+ --Train--  Epoch: 9/50  Train_avg_loss: 14.110810404000286 Train_acc: 0.5497641721993571
+ --Train--  Epoch: 10/50  Train_avg_loss: 14.158239537994028 Train_acc: 0.5647850512211975
+ --Train--  Epoch: 11/50  Train_avg_loss: 14.24479633505876 Train_acc: 0.5662871391233815
+ --Train--  Epoch: 12/50  Train_avg_loss: 14.316303442608648 Train_acc: 0.5707934028299336
+ --Train--  Epoch: 13/50  Train_avg_loss: 14.373324710879377 Train_acc: 0.6353831826238472
+ --Train--  Epoch: 14/50  Train_avg_loss: 14.431919250191129 Train_acc: 0.6143539519932707
+ --Train--  Epoch: 15/50  Train_avg_loss: 14.468920373963057 Train_acc: 0.548262084297173
+ --Train--  Epoch: 16/50  Train_avg_loss: 14.516206229116111 Train_acc: 0.5122119746447562
+ --Train--  Epoch: 17/50  Train_avg_loss: 14.534462899056706 Train_acc: 0.5768017544386698
+ --Train--  Epoch: 18/50  Train_avg_loss: 14.517763577139018 Train_acc: 0.630876918917295
+ --Train--  Epoch: 19/50  Train_avg_loss: 14.501416536570757 Train_acc: 0.590320545558326
+ --Train--  Epoch: 20/50  Train_avg_loss: 14.461513693771437 Train_acc: 0.6504040616456875
+ --Train--  Epoch: 21/50  Train_avg_loss: 14.431549199855548 Train_acc: 0.6458977979391354
+ --Train--  Epoch: 22/50  Train_avg_loss: 14.42216333214705 Train_acc: 0.6473998858413195
+ --Train--  Epoch: 23/50  Train_avg_loss: 14.42894562012729 Train_acc: 0.6158560398954547
+ --Train--  Epoch: 24/50  Train_avg_loss: 14.432432033070803 Train_acc: 0.6744374680806321
+
+# Note: .
+Start Time: 2020-06-06 02:50:46.
+ --Train--  Epoch: 1/50  Train_avg_loss: 10.044054512945099 Train_acc: 0.19827560308829273
+ --Train--  Epoch: 2/50  Train_avg_loss: 9.462465700504263 Train_acc: 0.29891549253462313
+ --Train--  Epoch: 3/50  Train_avg_loss: 9.546181576207875 Train_acc: 0.40856790939405774
+ --Train--  Epoch: 4/50  Train_avg_loss: 9.830189853099908 Train_acc: 0.3905428545678493
+ --Train--  Epoch: 5/50  Train_avg_loss: 10.053850062610808 Train_acc: 0.4701535133836032
+ --Train--  Epoch: 6/50  Train_avg_loss: 10.25157731640304 Train_acc: 0.48367230450325954
+ --Train--  Epoch: 7/50  Train_avg_loss: 10.435707090335091 Train_acc: 0.5152161504491243
+ --Train--  Epoch: 8/50  Train_avg_loss: 10.58186735368634 Train_acc: 0.4821702166010755
+ --Train--  Epoch: 9/50  Train_avg_loss: 10.715450123709852 Train_acc: 0.4896806561119957
+ --Train--  Epoch: 10/50  Train_avg_loss: 10.826166705193748 Train_acc: 0.4641451617748671
+ --Train--  Epoch: 11/50  Train_avg_loss: 10.914445047740696 Train_acc: 0.46714933757923516
+ --Train--  Epoch: 12/50  Train_avg_loss: 11.00575833873136 Train_acc: 0.5016973593294679
+ --Train--  Epoch: 13/50  Train_avg_loss: 11.106498219230971 Train_acc: 0.40556373358968967
+ --Train--  Epoch: 14/50  Train_avg_loss: 11.144904818808788 Train_acc: 0.3935470303722174
+ --Train--  Epoch: 15/50  Train_avg_loss: 11.227024139006856 Train_acc: 0.4115720851984258
+ --Train--  Epoch: 16/50  Train_avg_loss: 11.261095229467376 Train_acc: 0.44762219485084265
+ --Train--  Epoch: 17/50  Train_avg_loss: 11.322141389930376 Train_acc: 0.43109922792681826
+ --Train--  Epoch: 18/50  Train_avg_loss: 11.343774025163958 Train_acc: 0.43560549163337037
+ --Train--  Epoch: 19/50  Train_avg_loss: 11.395425457847617 Train_acc: 0.43410340373118633
+ --Train--  Epoch: 20/50  Train_avg_loss: 11.42789718475639 Train_acc: 0.43560549163337037
+ --Train--  Epoch: 21/50  Train_avg_loss: 11.443644554543054 Train_acc: 0.41758043680716195
+ --Train--  Epoch: 22/50  Train_avg_loss: 11.433396596824995 Train_acc: 0.4295971400246342
+ --Train--  Epoch: 23/50  Train_avg_loss: 11.41869351174374 Train_acc: 0.48817856820981165
+ --Train--  Epoch: 24/50  Train_avg_loss: 11.33465028213085 Train_acc: 0.4866764803076276
+ --Train--  Epoch: 25/50  Train_avg_loss: 11.269661486717602 Train_acc: 0.45212845855739475
+ --Train--  Epoch: 26/50  Train_avg_loss: 11.197218891244088 Train_acc: 0.5317391173731487
+ --Train--  Epoch: 27/50  Train_avg_loss: 11.187712716545544 Train_acc: 0.4866764803076276
+ --Train--  Epoch: 28/50  Train_avg_loss: 11.1440665175411 Train_acc: 0.5212245020578604
+ --Train--  Epoch: 29/50  Train_avg_loss: 11.126880496711323 Train_acc: 0.5167182383513084
+ --Train--  Epoch: 30/50  Train_avg_loss: 11.13734400339693 Train_acc: 0.5272328536665966
+ --Train--  Epoch: 31/50  Train_avg_loss: 11.111263619564989 Train_acc: 0.5647850512211975
+ --Train--  Epoch: 32/50  Train_avg_loss: 11.147375388085088 Train_acc: 0.5993330729714302
+ --Train--  Epoch: 33/50  Train_avg_loss: 11.20116983838996 Train_acc: 0.5407516447862529
+ --Train--  Epoch: 34/50  Train_avg_loss: 11.1826132587704 Train_acc: 0.5317391173731487
+ --Train--  Epoch: 35/50  Train_avg_loss: 11.19944670026235 Train_acc: 0.5978309850692463
+
+# Note: .
+Start Time: 2020-06-06 12:34:13.
+
+# Note: .
+Start Time: 2020-06-06 12:44:10.
+
+# Note: .
+Start Time: 2020-06-06 12:44:28.
+
+# Note: d_model=400.
+Start Time: 2020-06-07 10:31:00.
+ --Train--  Epoch: 1/50  Train_avg_loss: 10.781577870722755 Train_acc: 0.1547150539249557
+ --Train--  Epoch: 2/50  Train_avg_loss: 9.802644143944939 Train_acc: 0.18776098777300448
+ --Train--  Epoch: 3/50  Train_avg_loss: 9.703015473894158 Train_acc: 0.30342175624117523
+
+# Note: .
+Start Time: 2020-06-07 21:05:43.
